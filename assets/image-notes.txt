@@ -1,0 +1,4 @@
+생성 도구: 내장 image_gen
+파일: pastel-meal.png
+최종 프롬프트: Minimal editorial 3D meal bowl with cabbage, tofu, boiled egg and tomato; pastel sage green, butter yellow, dusty peach and ivory; matte materials, soft shadows; centered three-quarter overhead view; ample breathing room; transparent background; no text, logos or decorations.
+웹 표시: index.html에 원본 이미지 데이터를 포함해 단일 HTML 배포 지원.

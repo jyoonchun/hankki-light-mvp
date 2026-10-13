@@ -1,0 +1,12 @@
+{
+  "name": "hankki-light-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "한끼가볍게 정적 MVP 및 로컬 CLI 도구",
+  "allowScripts": {
+    "supabase": true
+  },
+  "devDependencies": {
+    "supabase": "^2.120.0"
+  }
+}
